@@ -1,0 +1,15 @@
+{
+	"name":"[joke]legendary skin dropper",
+	"description":"[joke]legendary skin dropper",
+	"author":"killy",
+	"contact":"",
+	"version":"1.1",
+	"priority":1,
+	"blt_version":2,
+	"hooks":[
+		{
+			"hook_id":"lib/states/ingamelobbymenu",
+			"script_path":"[joke]legendary skin dropper.lua"
+		}
+	]
+}
